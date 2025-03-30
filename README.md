@@ -38,29 +38,29 @@ Use **gcc** to compile the program:
     E 450
 
 # Sample Output
-Process A ran in Q0 . Remaining time is 295 
-Process B ran in Q0 . Remaining time is 145 
-Process C ran in Q0 . Remaining time is 245 
-Process D ran in Q0 . Remaining time is 345 
-Process E ran in Q0 . Remaining time is 445 
-Process A ran in Q1 . Remaining time is 290 
-Process B ran in Q1 . Remaining time is 140 
-Process C ran in Q1 . Remaining time is 240 
-Process D ran in Q1 . Remaining time is 340 
-Process E ran in Q1 . Remaining time is 440 
-Process B ran in Q2 . Remaining time is 135 
-Process C ran in Q2 . Remaining time is 235 
-Process A ran in Q2 . Remaining time is 285 
-...
-...
-...
+    Process A ran in Q0 . Remaining time is 295 
+    Process B ran in Q0 . Remaining time is 145 
+    Process C ran in Q0 . Remaining time is 245 
+    Process D ran in Q0 . Remaining time is 345 
+    Process E ran in Q0 . Remaining time is 445 
+    Process A ran in Q1 . Remaining time is 290 
+    Process B ran in Q1 . Remaining time is 140 
+    Process C ran in Q1 . Remaining time is 240 
+    Process D ran in Q1 . Remaining time is 340 
+    Process E ran in Q1 . Remaining time is 440 
+    Process B ran in Q2 . Remaining time is 135 
+    Process C ran in Q2 . Remaining time is 235 
+    Process A ran in Q2 . Remaining time is 285 
+    ...
+    ...
+    ...
 
-Turnaround time of process A is 1290
-Turnaround time of process B is 730
-Turnaround time of process C is 1135
-Turnaround time of process D is 1395
-Turnaround time of process E is 1500
-Average turnaround time is 1210.00 ms
+    Turnaround time of process A is 1290
+    Turnaround time of process B is 730
+    Turnaround time of process C is 1135
+    Turnaround time of process D is 1395
+    Turnaround time of process E is 1500
+    Average turnaround time is 1210.00 ms
 
 ## Code Explanation
 # **1. Data Structures**
